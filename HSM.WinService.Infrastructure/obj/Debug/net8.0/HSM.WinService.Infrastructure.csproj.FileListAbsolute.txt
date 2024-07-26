@@ -1,0 +1,15 @@
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\bin\Debug\net8.0\HSM.WinService.Infrastructure.deps.json
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\bin\Debug\net8.0\HSM.WinService.Infrastructure.dll
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\bin\Debug\net8.0\HSM.WinService.Infrastructure.pdb
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\bin\Debug\net8.0\HSM.WinService.Core.dll
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\bin\Debug\net8.0\HSM.WinService.Core.pdb
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\obj\Debug\net8.0\HSM.WinService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\obj\Debug\net8.0\HSM.WinService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\obj\Debug\net8.0\HSM.WinService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\obj\Debug\net8.0\HSM.WinService.Infrastructure.AssemblyInfo.cs
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\obj\Debug\net8.0\HSM.WinService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\obj\Debug\net8.0\HSM.WinS.50E25166.Up2Date
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\obj\Debug\net8.0\HSM.WinService.Infrastructure.dll
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\obj\Debug\net8.0\refint\HSM.WinService.Infrastructure.dll
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\obj\Debug\net8.0\HSM.WinService.Infrastructure.pdb
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Infrastructure\obj\Debug\net8.0\ref\HSM.WinService.Infrastructure.dll

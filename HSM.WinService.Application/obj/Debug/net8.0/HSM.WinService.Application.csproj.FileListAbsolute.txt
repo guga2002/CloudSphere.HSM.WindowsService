@@ -1,0 +1,14 @@
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\bin\Debug\net8.0\HSM.WinService.Application.deps.json
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\bin\Debug\net8.0\HSM.WinService.Application.runtimeconfig.json
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\bin\Debug\net8.0\HSM.WinService.Application.dll
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\bin\Debug\net8.0\HSM.WinService.Application.pdb
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\obj\Debug\net8.0\HSM.WinService.Application.csproj.AssemblyReference.cache
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\obj\Debug\net8.0\HSM.WinService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\obj\Debug\net8.0\HSM.WinService.Application.AssemblyInfoInputs.cache
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\obj\Debug\net8.0\HSM.WinService.Application.AssemblyInfo.cs
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\obj\Debug\net8.0\HSM.WinService.Application.csproj.CoreCompileInputs.cache
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\obj\Debug\net8.0\HSM.WinService.Application.dll
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\obj\Debug\net8.0\refint\HSM.WinService.Application.dll
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\obj\Debug\net8.0\HSM.WinService.Application.pdb
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\obj\Debug\net8.0\HSM.WinService.Application.genruntimeconfig.cache
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Application\obj\Debug\net8.0\ref\HSM.WinService.Application.dll

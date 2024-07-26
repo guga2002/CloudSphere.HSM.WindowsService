@@ -1,0 +1,14 @@
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\bin\Debug\net8.0\HSM.WinService.Core.deps.json
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\bin\Debug\net8.0\HSM.WinService.Core.runtimeconfig.json
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\bin\Debug\net8.0\HSM.WinService.Core.dll
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\bin\Debug\net8.0\HSM.WinService.Core.pdb
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\obj\Debug\net8.0\HSM.WinService.Core.csproj.AssemblyReference.cache
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\obj\Debug\net8.0\HSM.WinService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\obj\Debug\net8.0\HSM.WinService.Core.AssemblyInfoInputs.cache
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\obj\Debug\net8.0\HSM.WinService.Core.AssemblyInfo.cs
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\obj\Debug\net8.0\HSM.WinService.Core.csproj.CoreCompileInputs.cache
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\obj\Debug\net8.0\HSM.WinService.Core.dll
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\obj\Debug\net8.0\refint\HSM.WinService.Core.dll
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\obj\Debug\net8.0\HSM.WinService.Core.pdb
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\obj\Debug\net8.0\HSM.WinService.Core.genruntimeconfig.cache
+C:\Users\aapkh\Source\Repos\CloudSphere.HSM.WindowsService\HSM.WinService.Core\obj\Debug\net8.0\ref\HSM.WinService.Core.dll
